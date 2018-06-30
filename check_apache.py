@@ -1,10 +1,10 @@
-from __future__ import print_function
 #!/usr/bin/env python
 # author: Robert Freiberger
 # date: 12/5/2017
 # license: BSD
 # notes: demo of simple sysadmin script for checking apache health
 
+from __future__ import print_function
 import re
 import subprocess
 import sys 
